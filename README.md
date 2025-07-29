@@ -50,8 +50,10 @@ This project delivered an insightful sales dashboard that enables Adidas to iden
 ![my Dashboard](https://github.com/UchData/Adidas-sales-Dashboard/blob/main/Screenshot%20(3).png)
 ![]
 
- 
 
+
+ 
+![Link to my documentation](https://medium.com/@victoryhanson/introduction-adidas-sales-dashboard-a-deep-dive-into-data-design-insights-a4d88c43bca5)
 #DataAnalysis #ExcelDashboard #SalesAnalytics #AdidasData #DataVisualization
 #RetailAnalytics #BusinessIntelligence #DataDriven #DashboardDesign #GitHubPortfolio
 
