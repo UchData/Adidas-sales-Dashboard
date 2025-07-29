@@ -47,6 +47,8 @@ This project delivered an insightful sales dashboard that enables Adidas to iden
 - Conditional Formatting  
 
 ---
+![my Dashboard](https://github.com/UchData/Adidas-sales-Dashboard/blob/main/Screenshot%20(3).png)
+![]
 
  
 
